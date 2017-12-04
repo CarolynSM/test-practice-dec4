@@ -1,0 +1,22 @@
+{
+  "name": "test-practice-dec4",
+  "version": "1.0.0",
+  "description": "test warmup Dec 4 2017",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolynSM/test-practice-dec4.git"
+  },
+  "author": "Carolyn Selheim-Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolynSM/test-practice-dec4/issues"
+  },
+  "homepage": "https://github.com/CarolynSM/test-practice-dec4#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
